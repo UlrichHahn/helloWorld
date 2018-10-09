@@ -1,3 +1,3 @@
 # helloWorld
 
-just kidding - enougn Hello in the World
+just kidding - enough Hello in the World
